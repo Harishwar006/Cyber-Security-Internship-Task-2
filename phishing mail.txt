@@ -1,0 +1,16 @@
+Subject: Urgent: Action Required to Secure Your Account
+
+From: support@account-security.com
+To: user@example.com
+
+Dear User,
+
+We have detected unusual login attempts on your account from a new device.
+To ensure the security of your information, please verify your identity by visiting the secure portal below:
+
+👉 https://security.example.com/verify/login
+
+If verification is not completed within 24 hours, your account may be temporarily restricted.
+
+Thank you,
+Account Security Team
